@@ -4,7 +4,8 @@
 My GPU is cuda:3.
 
 ## Part 1: data preparation
-Languages: Catalan, Esperanto, English, Euskera, French, Galician, Italian, Latin, Portuguese, Spanish
+Languages: Catalan, Esperanto, English, Euskera, French, Galician, Italian, Latin, Portuguese, Spanish.
+
 My selected language files saved in new_x and new_y.
 
 ## Part 2: model and training
