@@ -27,7 +27,6 @@
 8. Evaluation will be measured with binary accuracy per batch  
   
   ## Final Report
-  The accuracy of the model is terrible. We already predicted this could happen, but the results are a disgrace.
   We understand the dataset was not optimal. Not enough tweets from the very beginning, and after splitting in three subsets the amunt was dramatically reduced as well. Given the nature of tweet data, the lenght is always very limited and therefore difficult to extract meaninful features from it.
   
   Initially, we thought of using pre-trained embeddings for the task (GloVe), but as we explained before there was not enough data for it, and the results would have been worse (although being worse is not mathematically possible).
